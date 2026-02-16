@@ -161,9 +161,7 @@ La progresión está diseñada para construir conocimiento de forma incremental,
 ## 🔗 Información de Contacto
 
 **GitHub:** [ncara42](https://github.com/ncara42)  
-**42 Network:** [42 Barcelona](https://www.42barcelona.com/)
-
-Actualmente en 42 Madrid - 15/01/2026.
+**42 Network:** [42 Madrid](https://www.42madrid.com/)
 
 ---
 
