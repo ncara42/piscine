@@ -142,24 +142,6 @@ En total hay 14 proyectos (C00-C13). Pude completar los primeros 9.
 
 ---
 
-## 💡 Competencias Adquiridas
-
-### Técnicas
-- **Programación en C:** Dominio de sintaxis, tipos de datos, operadores y control de flujo
-- **Gestión de Memoria:** Comprensión profunda de stack, heap, punteros y memoria dinámica
-- **Algoritmos:** Implementación de algoritmos de búsqueda, ordenamiento y recursión
-- **Debugging:** Uso de herramientas como `gcc`, `valgrind`, `gdb`
-- **Norminette:** Cumplimiento estricto del estándar de código de 42
-
-### Metodológicas
-- **Aprendizaje Autónomo:** Capacidad de aprender sin recursos tradicionales (sin clases, sin libros)
-- **Peer-Learning:** Colaboración y evaluación entre compañeros
-- **Resolución de Problemas:** Enfoque analítico y debugging sistemático
-- **Gestión del Tiempo:** Trabajo bajo presión con deadlines estrictos
-- **Resiliencia:** Superación de frustraciones y errores repetidos
-
----
-
 ## 🏆 Logros Destacables
 
 - ✅ Número #1 en mi piscina por proyectos entregados (9/14)
@@ -168,7 +150,7 @@ En total hay 14 proyectos (C00-C13). Pude completar los primeros 9.
 - ✅ Desarrollados 70+ ejercicios de programación en C
 - ✅ Implementadas funciones de la biblioteca estándar desde cero
 - ✅ Dominio de conceptos fundamentales: punteros, memoria, recursión...
-- ✅ Código revisado y validado por peers y Moulinette
+- ✅ Código revisado y validado por peers, Norminette y Moulinette
 
 ---
 
@@ -178,11 +160,11 @@ La progresión está diseñada para construir conocimiento de forma incremental,
 
 ## 🔗 Información de Contacto
 
-**GitHub:** [ncara42/piscine](https://github.com/ncara42/piscine)  
+**GitHub:** [ncara42](https://github.com/ncara42)  
 **42 Network:** [42 Barcelona](https://www.42barcelona.com/)
 
 Actualmente en 42 Madrid - 15/01/2026.
 
 ---
 
-*Documento generado para fines de portfolio profesional. Todos los ejercicios fueron completados de forma individual siguiendo la normativa y valores de 42.*
+*Documento para fines de portfolio profesional. Todos los ejercicios fueron completados de forma individual siguiendo la normativa y valores de 42.*
