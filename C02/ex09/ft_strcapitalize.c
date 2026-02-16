@@ -1,17 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strcapitalize.c                                 :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/02 17:00:05 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/03 14:27:39 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-//#include <unistd.h>
-
 char	*ft_strcapitalize(char *str)
 {
 	int	i;
@@ -38,19 +24,3 @@ char	*ft_strcapitalize(char *str)
 	}
 	return (str);
 }
-
-/*int	main(void)
-{
-	char	str[] = "salut, comment tu vas ? 42mots quarante-deux";
-	int		i;
-
-	i = 0;
-	ft_strcapitalize(str);
-	while (str[i])
-	{
-		write(1, &str[i], 1);
-		i++;
-	}
-	write(1, "\n", 1);
-	return (0);
-}*/

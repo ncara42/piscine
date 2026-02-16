@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_putstr_non_printable.c                          :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/02 18:23:14 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/03 12:28:40 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_putstr_non_printable(char *str)
@@ -32,12 +20,3 @@ void	ft_putstr_non_printable(char *str)
 		i++;
 	}
 }
-
-//int	main(void)
-//{
-//	char	*str;
-//	
-//	str = "Hola\nComo\tEstas\r";
-//	ft_putstr_non_printable(str);
-//	return (0);
-//}

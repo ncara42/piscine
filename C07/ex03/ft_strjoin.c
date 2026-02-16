@@ -1,19 +1,7 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strjoin.c                                       :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/15 12:12:46 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/16 12:46:05 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <stdlib.h>
-//#include <stdio.h>
 
-// Contabilizo size total de strs
+
+
 int	strleng(int size, char **strs, char *sep)
 {
 	int		len_strs;
@@ -40,7 +28,7 @@ int	strleng(int size, char **strs, char *sep)
 	return (total_len);
 }
 
-// Uso el size total para strcpy
+
 void	strcp(char *str, char **strs, int size, char *sep)
 {
 	int	pos;
@@ -66,7 +54,7 @@ void	strcp(char *str, char **strs, int size, char *sep)
 	str[pos] = '\0';
 }
 
-// Funcion principal, uso el size total para definir espacio dinamico con malloc
+
 char	*ft_strjoin(int size, char **strs, char *sep)
 {
 	char	*str;
@@ -85,15 +73,3 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 	strcp(str, strs, size, sep);
 	return (str);
 }
-/*
-int	main(void)
-{
-	int	n = 6;
-	char	*strs[] = {"ab", "cd", "ef", "gh", "ij", "kl"};
-	char	*string = ft_strjoin(n, strs, "---");
-	if (string == NULL)
-		return (1);
-	printf("%s\n", string);
-	free(string);
-	return (0);
-}*/

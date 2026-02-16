@@ -1,17 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_atoi_base.c                                     :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/17 17:35:36 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/17 18:34:39 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-//#include <stdio.h>
-
 int	ft_strlen(char *base)
 {
 	int	len_base;
@@ -100,12 +86,3 @@ int	ft_atoi_base(char *str, char *base)
 	}
 	return (result * sign);
 }
-/*
-int	main(void)
-{
-	int	result;
-	char	hex[] = "0123456789ABCDEF";
-	result = ft_atoi_base("96", hex);
-	printf("%d\n", result);
-	return (0);
-}*/
