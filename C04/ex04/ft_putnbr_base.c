@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_putnbr_base.c                                   :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/05 16:08:43 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/07 14:31:23 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <unistd.h>
 
 void	ft_putchar(char c)
@@ -79,14 +67,3 @@ void	ft_putnbr_base(int nbr, char *base)
 		ft_putnbr_base(nbr / len_base, base);
 	ft_putchar(base[nbr % len_base]);
 }
-
-//int	main(void)
-//{
-//	//char	hex[] = "0123456789abcdef";
-//	//char	bin[] = "01";
-//	char	dec[] = "0123456789";
-//	//char	pon[] = "poniguay";
-//	ft_putnbr_base(2183648, dec);
-//	ft_putchar('\n');
-//	return (0);
-//}

@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strs_to_tab.c                                   :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/16 17:56:19 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/17 13:24:04 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "ft_stock_str.h"
 #include <stdlib.h>
 
@@ -71,17 +59,3 @@ struct	s_stock_str	*ft_strs_to_tab(int ac, char **av)
 	tab[i].copy = NULL;
 	return (tab);
 }
-/*
-int	main(int argc, char **argv)
-{
-	t_stock_str	*tab;
-	int			i;
-	tab = ft_strs_to_tab(argc, argv);
-	i = 1;
-	while (tab[i].str != 0)
-	{
-		printf("%d %s %s\n", tab[i].size, tab[i].str, tab[i].copy);
-		i++;
-	}
-	return (0);
-}*/

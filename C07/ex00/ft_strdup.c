@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_strdup.c                                        :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: ncaravac <marvin@42.fr>                    +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/11/11 16:15:11 by ncaravac          #+#    #+#             */
-/*   Updated: 2025/11/16 12:40:45 by ncaravac         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include <stdlib.h>
 
 char	*ft_strdup(char *src)
@@ -33,17 +21,3 @@ char	*ft_strdup(char *src)
 	dup[i] = '\0';
 	return (dup);
 }
-/*
-int	main(void)
-{
-	char	src[] =  "Something";
-	char	*copy = ft_strdup(src);
-	
-	if (!copy)
-		return (1);
-	printf("%s\n", src);
-	printf("%s\n", copy);
-
-	free(copy);
-	return (0);
-}*/
