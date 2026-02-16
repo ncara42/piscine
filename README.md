@@ -162,12 +162,12 @@ En total hay 14 proyectos (C00-C13). Pude completar los primeros 9.
 
 ## 🏆 Logros Destacables
 
+- ✅ Número #1 en mi piscina por proyectos entregados (9/14)
 - ✅ Completado el programa intensivo de 26 días
 - ✅ Desarrollados 70+ ejercicios de programación en C
 - ✅ Implementadas funciones de la biblioteca estándar desde cero
-- ✅ Dominio de conceptos fundamentales: punteros, memoria, recursión
-- ✅ Código revisado y validado por peers
-- ✅ Preparación para el Tronco Común de 42
+- ✅ Dominio de conceptos fundamentales: punteros, memoria, recursión...
+- ✅ Código revisado y validado por peers y Moulinette
 
 ---
 
