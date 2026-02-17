@@ -7,14 +7,14 @@
 
 ---
 
-## 🎯 Información General
+## Información General
 
 Este repositorio documenta el trabajo realizado durante las series C (C00-C08), demostrando progresión desde conceptos fundamentales hasta estructuras de datos complejas y gestión de memoria dinámica.
 En total hay 14 proyectos (C00-C13). Pude completar los primeros 9.
 
 ---
 
-## 📚 Contenido por Módulo
+## Contenido por Módulo
 
 ### **C00 - Fundamentos de la Programación**
 *Primeros pasos con C y la salida estándar*
@@ -142,7 +142,7 @@ En total hay 14 proyectos (C00-C13). Pude completar los primeros 9.
 
 ---
 
-## 🏆 Logros Destacables
+## Logros Destacables
 
 - ✅ Número #1 en mi piscina por proyectos entregados (9/14)
 - ✅ Número #1 en mi piscina por +70 correciones peer-to-peer
@@ -158,7 +158,7 @@ La progresión está diseñada para construir conocimiento de forma incremental,
 
 ---
 
-## 🔗 Información de Contacto
+## Información de Contacto
 
 **GitHub:** [ncara42](https://github.com/ncara42)  
 **42 Network:** [42 Madrid](https://www.42madrid.com/)
