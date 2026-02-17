@@ -12,8 +12,6 @@
 Este repositorio documenta el trabajo realizado durante las series C (C00-C08), demostrando progresión desde conceptos fundamentales hasta estructuras de datos complejas y gestión de memoria dinámica.
 En total hay 14 proyectos (C00-C13). Pude completar los primeros 9.
 
----
-
 ## Contenido por Módulo
 
 ### **C00 - Fundamentos de la Programación**
