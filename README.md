@@ -1,7 +1,7 @@
 # Piscina 42 Barcelona
 
 **Estudiante:** ncaravac  
-**Campus:** 42 Barcelona, España (Actualmente en 42 Madrid: 15-01-2026) <br>
+**Campus:** 42 Madrid, España
 **Período:** Octubre - Noviembre 2025  
 **Lenguaje:** C  
 
